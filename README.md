@@ -28,7 +28,7 @@ This project extends the TrainSim simulation platform by integrating real-world 
      
 ## Authors
 - Andrea Vivai - GitHub: [https://github.com/AndreaVivai](https://github.com/AndreaVivai)
-- Enea Dragoni - GitHub: [https://github.com/EneaDragoni](https://github.com/EneaDragoni)
+- Enea Dragoni - GitHub: [https://github.com/EneaDrago](https://github.com/EneaDrago)
 
 ## License
 This project is released under the MIT License.
